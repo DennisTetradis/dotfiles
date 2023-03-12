@@ -1,0 +1,3 @@
+#!/bin/bash
+
+paru -Qua | wc -l
